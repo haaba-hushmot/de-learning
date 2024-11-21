@@ -32,9 +32,12 @@ The study plan for this project is as follows:
 
 ### Learning Resources
 1. Azure Data Engineering
-1.1. [Microsoft Official Site](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer)
-1.2. [Microsoft Self-learning path](https://learn.microsoft.com/en-us/training/courses/dp-203t00)
-1.3. [Practice Test](https://www.itexams.com/exam/DP-203)
+- 1.1. [Microsoft Official Site](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer)
+- 1.2. [Microsoft Self-learning path](https://learn.microsoft.com/en-us/training/courses/dp-203t00)
+- 1.3. [Practice Test](https://www.itexams.com/exam/DP-203)
+- 1.4. [Whizlabs Course](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
+- 1.5. [Udemy Course](https://www.udemy.com/course/azure-data-engineer-associate-dp-203/)
+- 1.6. [GitHub Repository - Raeez21](https://github.com/raeez21/DP203---AzureDEAssociate-Code)
 
 
 
