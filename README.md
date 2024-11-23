@@ -38,6 +38,7 @@ The study plan for this project is as follows:
 - 1.4. [Whizlabs Course](https://www.whizlabs.com/microsoft-azure-certification-dp-203/)
 - 1.5. [Udemy Course](https://www.udemy.com/course/azure-data-engineer-associate-dp-203/)
 - 1.6. [GitHub Repository - Raeez21](https://github.com/raeez21/DP203---AzureDEAssociate-Code)
+- 1.7. [Real Exam Questions Dumps](https://youtu.be/mbo43UgIkYc?si=s7PVSdgjXJvNtDr2)
 
 
 
